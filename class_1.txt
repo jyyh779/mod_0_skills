@@ -1,0 +1,5 @@
+Class 1: Employees
+
+Attributes: EmployeedID(string), Age(integer), IsAnEmployee(boolean)
+
+Methods: ClockIn, ClockOut, Mop Floor, Take Order, Cook Meal

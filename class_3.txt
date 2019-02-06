@@ -1,0 +1,5 @@
+Class 3: Food
+
+attributes: isOrganic(boolean), NumberOfCarbs(integer), NameOfFood(string)
+
+methods: RotsPastExperationDate, HardensInCold, MeltsInHeat

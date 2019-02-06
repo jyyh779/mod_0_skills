@@ -1,0 +1,5 @@
+Class 2: Infrastucture
+
+Attributes: SecuritySystemModel(integer), doorEntranceHeight(integer), isOpen(boolean), location "string"
+
+methods: DoorOpensAutomatically, LocksAtNight, LightsShutOff
