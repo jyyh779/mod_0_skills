@@ -1,0 +1,27 @@
+Getting Food At a Restaurant
+
+1. Determine aspects of process
+	1.1 What is food
+	1.2 What is a restaurant
+2. Figure out what restaurant you want to go to
+	2.1 Figure out what you food you like
+	2.2 Google restaraunts that serve food you like
+	2.3 Pick restaurant with highest rating that sells food you want
+3. Go to restaurant
+	3.1 Determine mode of transportation
+		3.1.1 If vehicle, drive vehicle
+		3.2.2 if no vehicle, walk
+	3.2 Find location
+4. Enter restaurant
+	4.1 Locate host
+		4.1.1 if no host, pick table
+		4.1.2 if there is a host, follow host to determined table
+	4.2 sit at table
+5. Pick food to order
+	5.1 Look at menu
+		5.1.1 Ask about specials
+	5.2 Locate food you came to restaurant for in menu
+	5.3 Wait until waiter/waitress comes to your table
+6. Tell waiter/waitress desired dish
+	6.1 Wait for food to come out
+		6.1.1 Make small talk if neccessary
